@@ -1,2 +1,2 @@
 # ceng797
-CENG797 Term Project
+Term Project for CENG797 Ad Hoc Networks
